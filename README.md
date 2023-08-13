@@ -4,7 +4,7 @@ Dotfiles
 This is my repository for tracking my own dotfiles with [Dotbot][https://github.com/anishathalye/dotbot]. I heavily referenced Anish Arhalye's [Managing You Dotfiles](https://anishathalye.com/managing-your-dotfiles/#user-content-fn-3) while creating this repo.
 
 In general, the idea is to use symbolic links for everything, and using git
-submodules whenever possible, per [anishathalye](anishathalye) (the template this was downloaded from).
+submodules whenever possible, per [anishathalye](anishathalye) (creator of the [template](https://github.com/anishathalye/dotfiles_template) this repo was created from).
 To create a symbolic link: `ln -s /path/to/original /path/to/link`
 
 To keep submodules at their proper versions, you could include something like
